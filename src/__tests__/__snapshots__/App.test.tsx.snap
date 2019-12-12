@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa jwDDrf"
+    direction="column"
+  >
+    <div
+      class="sc-bwzfXH cZhPlG"
+    >
+      <div
+        class="sc-bdVaJa eZyhlj"
+        width="100%"
+      >
+        <div
+          class="sc-bwzfXH csCpgy"
+        >
+          <img
+            alt="logo"
+            src="EMURGOTEST-logo.svg"
+          />
+        </div>
+        <div
+          class="sc-bwzfXH csCpgy"
+        >
+          <div
+            class="sc-bdVaJa kcjLrt"
+          >
+            <div
+              class="sc-bwzfXH iNdfRB"
+              width="auto"
+            >
+              <button
+                class="sc-htpNat sc-EHOje injiaO"
+              >
+                header.about
+              </button>
+              <button
+                class="sc-htpNat sc-EHOje injiaO"
+              >
+                header.blog
+              </button>
+              <button
+                class="sc-htpNat sc-EHOje injiaO"
+              >
+                header.contact
+              </button>
+              <button
+                class="sc-htpNat sc-EHOje injiaO"
+              >
+                <div
+                  class="sc-bZQynM kCMQPu"
+                >
+                   
+                  <svg
+                    fill="none"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    style="font-size: 25px; margin-left: 5px;"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <polyline
+                      points="6 9 12 15 18 9"
+                    />
+                  </svg>
+                </div>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bwzfXH dNQmtH"
+      height="100vh"
+      width="100%"
+    >
+      <div
+        class="sc-bdVaJa bSyOig"
+        height="100%"
+      >
+        <div
+          class="sc-bwzfXH csCpgy"
+        >
+          <h1
+            class="sc-bxivhb kBPOOO"
+          >
+            home.title.emurgo
+          </h1>
+          <h3
+            style="font-weight: 300; margin-bottom: 30px;"
+          >
+            home.title.EmurgoDescription
+          </h3>
+          <div
+            class="sc-bdVaJa iBcMRe"
+            direction="row"
+          >
+            <div
+              class="sc-bwzfXH giEvCm"
+              width="auto"
+            >
+              <p>
+                home.title.source
+              </p>
+            </div>
+            <div
+              class="sc-bwzfXH iNdfRB"
+              width="auto"
+            >
+              <img
+                alt="logo"
+                src="EMURGO-logo.svg"
+                style="display: flex;"
+              />
+            </div>
+          </div>
+          <div
+            class="sc-bdVaJa lmjgyl"
+            direction="row"
+          >
+            <button
+              class="sc-htpNat sc-ifAKCX bfaVOq"
+            >
+              home.title.watch-the-video
+            </button>
+            <button
+              class="sc-htpNat sc-ifAKCX bfaVOq"
+            >
+              home.title.learn-more
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
