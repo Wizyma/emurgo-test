@@ -16,10 +16,14 @@ exports[`renders learn react link 1`] = `
         <div
           class="sc-bwzfXH csCpgy"
         >
-          <img
-            alt="logo"
-            src="EMURGOTEST-logo.svg"
-          />
+          <a
+            href="/"
+          >
+            <img
+              alt="logo"
+              src="EMURGOTEST-logo.svg"
+            />
+          </a>
         </div>
         <div
           class="sc-bwzfXH csCpgy"
@@ -31,21 +35,33 @@ exports[`renders learn react link 1`] = `
               class="sc-bwzfXH iNdfRB"
               width="auto"
             >
-              <button
-                class="sc-htpNat sc-EHOje injiaO"
+              <a
+                href="/about"
               >
-                header.about
-              </button>
-              <button
-                class="sc-htpNat sc-EHOje injiaO"
+                <button
+                  class="sc-htpNat sc-EHOje injiaO"
+                >
+                  header.about
+                </button>
+              </a>
+              <a
+                href="/blog"
               >
-                header.blog
-              </button>
-              <button
-                class="sc-htpNat sc-EHOje injiaO"
+                <button
+                  class="sc-htpNat sc-EHOje injiaO"
+                >
+                  header.blog
+                </button>
+              </a>
+              <a
+                href="/contact"
               >
-                header.contact
-              </button>
+                <button
+                  class="sc-htpNat sc-EHOje injiaO"
+                >
+                  header.contact
+                </button>
+              </a>
               <button
                 class="sc-htpNat sc-EHOje injiaO"
               >
@@ -128,12 +144,12 @@ exports[`renders learn react link 1`] = `
             <button
               class="sc-htpNat sc-ifAKCX bfaVOq"
             >
-              home.title.watch-the-video
+              home.title.learn-more
             </button>
             <button
               class="sc-htpNat sc-ifAKCX bfaVOq"
             >
-              home.title.learn-more
+              home.title.watch-the-video
             </button>
           </div>
         </div>

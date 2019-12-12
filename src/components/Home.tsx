@@ -31,8 +31,8 @@ const Button = styled(BaseButton)({
 const Buttons = () => {
   const { t } = useTranslation();
   const actions = [
-    { id: 'home.title.watch-the-video', },
     { id: 'home.title.learn-more', },
+    { id: 'home.title.watch-the-video', },
   ]
 
   return (
